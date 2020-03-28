@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quete 3</string>
+    <string name="edit_message1">Lastname</string>
+    <string name="button_send">Send</string>
+    <string name="edit_message">Name</string>
+    <string name="bienvenue">Bienvenue %s %s</string>
+    <string name="points_msg">Click: 0</string>
+</resources>
